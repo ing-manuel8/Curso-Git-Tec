@@ -29,4 +29,14 @@ Cada uno se encuentra en un momento de reflexión, cruzando sus caminos y aprend
 
     Personajes: Todos los anteriores.
 
+#Capítulo 7: La esperanza
+Ana, después de años de luchar contra la adversidad, encuentra un nuevo propósito en su vida al adoptar a un niño que transforma su visión del mundo.
+
+    Personajes: Ana y David.
+
+#Capítulo 8: El perdón
+Sofía y Daniel se reencuentran tras años de distanciamiento, enfrentando los errores del pasado y aprendiendo que el perdón es la clave para sanar y seguir adelante.
+
+    Personajes: Sofía y Daniel.
+
 
