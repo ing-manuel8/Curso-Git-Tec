@@ -87,4 +87,24 @@
     Eliminar una rama:
 
         git branch -d <nombre_rama>
+
+8. Tags
+
+    Lista todos los tags existentes.
+
+        git tag	
+
+	Crea un tag ligero llamado v1.0.
+
+        git tag v1.0
+
+    Crea un tag anotado con el mensaje especificado.
+
+        git tag -a v1.0 -m "mensaje"	
+
+    Muestra detalles del tag anotado v1.0.
+
+        git show v1.0	
+
+
   
