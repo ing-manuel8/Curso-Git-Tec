@@ -6,7 +6,7 @@
         
     Configurar el correo electrónico:
 
-        it config --global user.email "tuemail@ejemplo.com"
+        git config --global user.email "tuemail@ejemplo.com"
 
 2. Crear y Clonar Repositorios
 
@@ -18,7 +18,7 @@
 
     Verificar el estado actual del repositorio:
 
-        it status
+        git status
 
     Ver historial de commits:
 
